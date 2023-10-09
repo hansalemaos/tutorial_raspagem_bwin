@@ -1,3 +1,7 @@
+
+[![YT](https://i.ytimg.com/vi/pymkgO2vcDs/maxresdefault.jpg)](https://www.youtube.com/watch?v=pymkgO2vcDs)
+[https://www.youtube.com/watch?v=pymkgO2vcDs]()
+
 Neste vídeo, você aprenderá como criar um código eficiente para raspar dados de odds do site Bwin.com em tempo real, 
 permitindo que você se envolva na emocionante estratégia de arbitragem de apostas. 
 Com o código Python fornecido e explicado passo a passo, 
